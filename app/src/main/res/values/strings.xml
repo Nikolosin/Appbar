@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Appbar</string>
+    <string name="btnsave">Сохранить</string>
+    <string name="toast">Данные сохранены</string>
+    <string name="openset">Отркыть настройки</string>
+    <string name="menuSet">Настройки</string>
+    <string name="menuNotes">Записная книжка</string>
+    <string name="menuCites">Страна-Город</string>
+    <string name="showadd">Показать адрес</string>
+    <string-array name="countries">
+        <item>Россия</item>
+        <item>Украина</item>
+        <item>Белоруссия</item>
+    </string-array>
+    <string-array name="r_cities">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Казань</item>
+    </string-array>
+    <string-array name="u_cities">
+        <item>Киев</item>
+        <item>Одесса</item>
+        <item>Харьков</item>
+    </string-array>
+    <string-array name="b_cities">
+        <item>Минск</item>
+        <item>Гомель</item>
+        <item>Торжок</item>
+    </string-array>
+</resources>
